@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\johnp\\OneDrive - Ulster University\\IdleGameProject\\IdleBusiness\\IdleBusiness.csproj": {}
+    "C:\\Users\\johnp\\OneDrive - Ulster University\\IdleGameProject\\IdleGameProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\johnp\\OneDrive - Ulster University\\IdleGameProject\\IdleBusiness\\IdleBusiness.csproj": {
+    "C:\\Users\\johnp\\OneDrive - Ulster University\\IdleGameProject\\IdleGameProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\johnp\\OneDrive - Ulster University\\IdleGameProject\\IdleBusiness\\IdleBusiness.csproj",
-        "projectName": "IdleBusiness",
-        "projectPath": "C:\\Users\\johnp\\OneDrive - Ulster University\\IdleGameProject\\IdleBusiness\\IdleBusiness.csproj",
+        "projectUniqueName": "C:\\Users\\johnp\\OneDrive - Ulster University\\IdleGameProject\\IdleGameProject.csproj",
+        "projectName": "IdleGameProject",
+        "projectPath": "C:\\Users\\johnp\\OneDrive - Ulster University\\IdleGameProject\\IdleGameProject.csproj",
         "packagesPath": "C:\\Users\\johnp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\johnp\\OneDrive - Ulster University\\IdleGameProject\\IdleBusiness\\obj\\",
+        "outputPath": "C:\\Users\\johnp\\OneDrive - Ulster University\\IdleGameProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\johnp\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -55,9 +55,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

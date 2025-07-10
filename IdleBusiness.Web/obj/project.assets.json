@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\johnp\\OneDrive - Ulster University\\IdleGameProject\\IdleBusiness\\IdleBusiness.csproj",
-      "projectName": "IdleBusiness",
-      "projectPath": "C:\\Users\\johnp\\OneDrive - Ulster University\\IdleGameProject\\IdleBusiness\\IdleBusiness.csproj",
+      "projectUniqueName": "C:\\Users\\johnp\\OneDrive - Ulster University\\IdleGameProject\\IdleBusiness.Web\\IdleBusiness.Web.csproj",
+      "projectName": "IdleBusiness.Web",
+      "projectPath": "C:\\Users\\johnp\\OneDrive - Ulster University\\IdleGameProject\\IdleBusiness.Web\\IdleBusiness.Web.csproj",
       "packagesPath": "C:\\Users\\johnp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\johnp\\OneDrive - Ulster University\\IdleGameProject\\IdleBusiness\\obj\\",
+      "outputPath": "C:\\Users\\johnp\\OneDrive - Ulster University\\IdleGameProject\\IdleBusiness.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\johnp\\AppData\\Roaming\\NuGet\\NuGet.Config"
