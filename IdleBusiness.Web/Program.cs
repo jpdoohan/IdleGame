@@ -1,6 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using IdleBusiness.Data.Entities;
 using IdleBusiness.Data.Services;
+using IdleBusiness.Data.Repository;
 
 namespace IdleBusiness.Web.Program;
 
