@@ -7,7 +7,7 @@ public interface ICashService
     //Initialise repo
     void Initialise();
 
-    Cash GetCash(int user);
+    Cash GetCash(int userId);
 
     Cash UpdateCash(int user);
 
