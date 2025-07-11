@@ -6,5 +6,5 @@ Entity class to house the Investment vehicle blueprint.  This class will house t
 
 public class Investment
 {
-    
+    string name;
 }
